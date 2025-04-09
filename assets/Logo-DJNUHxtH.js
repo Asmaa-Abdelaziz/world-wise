@@ -1,0 +1,1 @@
+import{j as o,L as s}from"./index-Crp2SrS-.js";const l="_logo_7b2ls_1",t={logo:l},g="/world-wise/assets/logo-CRBkOzM_.png";function r(){return o.jsx(s,{to:"/",children:o.jsx("img",{src:g,alt:"WorldWise logo",className:t.logo})})}export{r as L};
