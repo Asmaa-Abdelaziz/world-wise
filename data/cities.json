@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Hamma",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-03-12T22:08:14.128Z",
+      "notes": "",
+      "position": {
+        "lat": "35.70471171432662",
+        "lng": "5.361328125"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Hassi Messaoud",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-01-29T22:08:19.000Z",
+      "notes": "",
+      "position": {
+        "lat": "31.384836803001505",
+        "lng": "5.646972656250001"
+      },
+      "id": 2
+    }
+  ]
+}
